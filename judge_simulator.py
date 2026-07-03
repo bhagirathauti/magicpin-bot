@@ -55,6 +55,27 @@ from pathlib import Path
 from urllib import request as urlrequest, error as urlerror
 from abc import ABC, abstractmethod
 
+
+def load_dotenv_file(dotenv_path: str = ".env"):
+    """Load simple KEY=VALUE pairs from a .env file into process env."""
+    if not os.path.exists(dotenv_path):
+        return
+
+    try:
+        with open(dotenv_path, "r", encoding="utf-8") as f:
+            for raw_line in f:
+                line = raw_line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                key, value = line.split("=", 1)
+                key = key.strip()
+                value = value.strip().strip('"').strip("'")
+                if key and key not in os.environ:
+                    os.environ[key] = value
+    except Exception:
+        # Non-fatal: validation below will still fail with a clear message if key is missing.
+        pass
+
 # Constants
 TIMEOUT_LLM = 45
 DATASET_DIR = Path(__file__).parent / "dataset"
@@ -989,6 +1010,12 @@ class JudgeSimulator:
 # =============================================================================
 
 def main():
+    global LLM_API_KEY
+
+    load_dotenv_file()
+    if not LLM_API_KEY:
+        LLM_API_KEY = os.getenv("LLM_API_KEY", "")
+
     print_header("magicpin AI Challenge — LLM Judge")
 
     # Validate configuration
