@@ -1,0 +1,13 @@
+{
+  "body": "Dr. Meera, our latest research digest reveals a 50% drop in clients. To combat this, we recommend our active offer, Teeth Whitening, priced at \u20b91999. This service has shown a significant increase in client satisfaction. Will you prioritize Teeth Whitening to boost your practice?",
+  "cta": "binary_yes_no",
+  "send_as": "vera",
+  "suppression_key": "t001_m001",
+  "rationale": "Addressing the drop in clients with a specific solution, Teeth Whitening, and emphasizing its benefits to encourage the merchant's action.",
+  "template_name": "Combat_Drop_In_Clients",
+  "template_params": [
+    "Teeth Whitening",
+    "50% drop",
+    "1999"
+  ]
+}

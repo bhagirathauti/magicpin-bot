@@ -1,0 +1,1045 @@
+[
+  {
+    "step": 1,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 798,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2053.6
+  },
+  {
+    "step": 2,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 800,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2037.28
+  },
+  {
+    "step": 3,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 802,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2064.76
+  },
+  {
+    "step": 4,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 805,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2050.5
+  },
+  {
+    "step": 5,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 807,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2063.55
+  },
+  {
+    "step": 6,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 809,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2049.4
+  },
+  {
+    "step": 7,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 811,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2035.33
+  },
+  {
+    "step": 8,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 813,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2032.46
+  },
+  {
+    "step": 9,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 815,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2033.27
+  },
+  {
+    "step": 10,
+    "method": "GET",
+    "path": "/v1/healthz",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "status": "ok",
+      "uptime_seconds": 817,
+      "contexts_loaded": {
+        "category": 6,
+        "merchant": 5,
+        "customer": 0,
+        "trigger": 1
+      }
+    },
+    "latency_ms": 2049.64
+  },
+  {
+    "step": 11,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2031.28
+  },
+  {
+    "step": 12,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2041.37
+  },
+  {
+    "step": 13,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2045.87
+  },
+  {
+    "step": 14,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2056.27
+  },
+  {
+    "step": 15,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2052.97
+  },
+  {
+    "step": 16,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2048.95
+  },
+  {
+    "step": 17,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2050.23
+  },
+  {
+    "step": 18,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2019.77
+  },
+  {
+    "step": 19,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2033.56
+  },
+  {
+    "step": 20,
+    "method": "GET",
+    "path": "/v1/metadata",
+    "request_body": null,
+    "status_code": 200,
+    "response_body": {
+      "team_name": "Antigravity",
+      "team_members": [
+        "Antigravity"
+      ],
+      "model": "gemini-1.5-flash",
+      "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
+      "contact_email": "antigravity@magicpin.com",
+      "version": "1.0.0",
+      "submitted_at": "2026-07-02T12:00:00Z"
+    },
+    "latency_ms": 2017.36
+  },
+  {
+    "step": 21,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 1,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v1"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v1 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2045.14
+  },
+  {
+    "step": 22,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 2,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v2"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v2 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2049.8
+  },
+  {
+    "step": 23,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 3,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v3"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v3 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2050.7
+  },
+  {
+    "step": 24,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 4,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v4"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v4 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2061.17
+  },
+  {
+    "step": 25,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 5,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v5"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v5 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2041.53
+  },
+  {
+    "step": 26,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 6,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v6"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v6 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2036.87
+  },
+  {
+    "step": 27,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 7,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v7"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v7 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2028.91
+  },
+  {
+    "step": 28,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 8,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v8"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v8 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2032.87
+  },
+  {
+    "step": 29,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 9,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v9"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v9 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2066.65
+  },
+  {
+    "step": 30,
+    "method": "POST",
+    "path": "/v1/context",
+    "request_body": {
+      "scope": "category",
+      "context_id": "test_cat_loop",
+      "version": 10,
+      "payload": {
+        "slug": "test_cat_loop",
+        "voice": {
+          "tone": "peer_clinical_v10"
+        },
+        "offer_catalog": [
+          {
+            "title": "Dental Cleaning v10 @ \u20b9299"
+          }
+        ]
+      },
+      "delivered_at": "2026-07-02T12:00:00Z"
+    },
+    "status_code": 409,
+    "response_body": {
+      "accepted": false,
+      "reason": "stale_version",
+      "current_version": 10
+    },
+    "latency_ms": 2064.13
+  },
+  {
+    "step": 31,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_013_corporate_thali_planning"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2055.09
+  },
+  {
+    "step": 32,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_016_kids_yoga_program_drafting"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2020.48
+  },
+  {
+    "step": 33,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_020_summer_demand_shift"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2057.62
+  },
+  {
+    "step": 34,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_022_cde_webinar_dentists"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": [
+        {
+          "conversation_id": "conv_m_001_drmeera_dentist_delhi_trg_022_cde_webinar_dentists",
+          "merchant_id": "m_001_drmeera_dentist_delhi",
+          "customer_id": null,
+          "send_as": "vera",
+          "trigger_id": "trg_022_cde_webinar_dentists",
+          "template_name": "research_digest_alert",
+          "template_params": [
+            "JIDA Oct 2026 p.14",
+            "3-month fluoride varnish recall",
+            "high-risk adult caries",
+            "124"
+          ],
+          "body": "Dr. Meera, JIDA Oct 2026 p.14 suggests 3-month fluoride varnish recall outperforms 6-month for high-risk adult caries. With 124 high-risk adults in your cohort, reassessing recall intervals could improve outcomes. Would you like to discuss how to implement this in your practice?",
+          "cta": "open_ended",
+          "suppression_key": "digest_jida_fluoride_varnish",
+          "rationale": "The message is triggered by a research digest and is relevant to the merchant's category and patient cohort. It uses a peer-reviewed source and suggests a specific action to improve patient outcomes, making it clinically relevant and actionable."
+        }
+      ]
+    },
+    "latency_ms": 4434.24
+  },
+  {
+    "step": 35,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_019_chronic_refill_grandfather"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2051.52
+  },
+  {
+    "step": 36,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_023_competitor_opened_dentist"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2042.88
+  },
+  {
+    "step": 37,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_008_curious_ask_studio11"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2039.29
+  },
+  {
+    "step": 38,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_015_winback_rashmi"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2030.44
+  },
+  {
+    "step": 39,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_025_dormancy_glamour"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2019.25
+  },
+  {
+    "step": 40,
+    "method": "POST",
+    "path": "/v1/tick",
+    "request_body": {
+      "now": "2026-07-02T12:05:00Z",
+      "available_triggers": [
+        "trg_006_festival_diwali"
+      ]
+    },
+    "status_code": 200,
+    "response_body": {
+      "actions": []
+    },
+    "latency_ms": 2042.87
+  },
+  {
+    "step": 41,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_auto_seq_1",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Out of office auto-response.",
+      "received_at": "2026-07-02T12:10:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "send",
+      "body": "Looks like an auto-reply. When the owner sees this, just reply 'Yes' for the webinar invite.",
+      "cta": "binary_yes_no",
+      "rationale": "Nudging after first auto-reply."
+    },
+    "latency_ms": 2042.97
+  },
+  {
+    "step": 42,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_auto_seq_1",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Out of office auto-response.",
+      "received_at": "2026-07-02T12:11:00Z",
+      "turn_number": 3
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "wait",
+      "wait_seconds": 14400,
+      "rationale": "Second auto-reply, backing off."
+    },
+    "latency_ms": 2055.63
+  },
+  {
+    "step": 43,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_auto_seq_1",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Out of office auto-response.",
+      "received_at": "2026-07-02T12:12:00Z",
+      "turn_number": 4
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "end",
+      "rationale": "Multiple auto-replies received, ending."
+    },
+    "latency_ms": 2040.86
+  },
+  {
+    "step": 44,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_auto_seq_2",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Respond shortly...",
+      "received_at": "2026-07-02T12:10:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "send",
+      "body": "Looks like an auto-reply. When the owner sees this, just reply 'Yes' for the webinar invite.",
+      "cta": "binary_yes_no",
+      "rationale": "Nudging after first auto-reply."
+    },
+    "latency_ms": 2060.82
+  },
+  {
+    "step": 45,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_auto_seq_2",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Respond shortly...",
+      "received_at": "2026-07-02T12:11:00Z",
+      "turn_number": 3
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "wait",
+      "wait_seconds": 14400,
+      "rationale": "Second auto-reply, backing off."
+    },
+    "latency_ms": 2053.93
+  },
+  {
+    "step": 46,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_intent_seq",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Let's do it, send the details",
+      "received_at": "2026-07-02T12:15:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "send",
+      "body": "Great, I am sending the draft now. Confirm when you are ready to proceed.",
+      "cta": "binary_yes_no",
+      "rationale": "Merchant committed, transitioning to action mode."
+    },
+    "latency_ms": 2030.26
+  },
+  {
+    "step": 47,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_hostile_seq",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Unsubscribe immediately. Stop this spam.",
+      "received_at": "2026-07-02T12:20:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "end",
+      "rationale": "Merchant expressed hostility or opted out."
+    },
+    "latency_ms": 2042.5
+  },
+  {
+    "step": 48,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_normal_seq_1",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Can you summarize the patient details for me?",
+      "received_at": "2026-07-02T12:25:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "send",
+      "body": "Done. Sending patient summary.",
+      "cta": "none",
+      "rationale": "Merchant wants to proceed with an action"
+    },
+    "latency_ms": 3276.24
+  },
+  {
+    "step": 49,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_normal_seq_2",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "What is the active offer on my profile?",
+      "received_at": "2026-07-02T12:30:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "send",
+      "body": "You have a 10% discount offer active on your profile.",
+      "cta": "none",
+      "rationale": "Providing the requested information directly"
+    },
+    "latency_ms": 2453.81
+  },
+  {
+    "step": 50,
+    "method": "POST",
+    "path": "/v1/reply",
+    "request_body": {
+      "conversation_id": "conv_normal_seq_3",
+      "merchant_id": "m_001_drmeera_dentist_delhi",
+      "from_role": "merchant",
+      "message": "Tell me more about the kids yoga program slots",
+      "received_at": "2026-07-02T12:35:00Z",
+      "turn_number": 2
+    },
+    "status_code": 200,
+    "response_body": {
+      "action": "send",
+      "body": "We have 3 slots: 4-5 pm, 5-6 pm, and 6-7 pm. Which one suits you?",
+      "cta": "multi_choice_slot",
+      "rationale": "Providing available time slots for the kids yoga program"
+    },
+    "latency_ms": 2547.86
+  }
+]
