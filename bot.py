@@ -59,11 +59,11 @@ async def healthz():
 @app.get("/v1/metadata")
 async def metadata():
     return {
-        "team_name": "Antigravity",
-        "team_members": ["Antigravity"],
-        "model": "gemini-1.5-flash",
+        "team_name": "Bhagirath's Team",
+        "team_members": ["Bhagirath"],
+        "model": "llama-3.1-8b-instant",
         "approach": "Vera AI assistant utilizing a stateful context store, a unified multi-provider LLM calling client with local config extraction, and robust rule-based fallbacks for guaranteed evaluation pass.",
-        "contact_email": "antigravity@magicpin.com",
+        "contact_email": "bhagirath.auti@kalvium.community",
         "version": "1.0.0",
         "submitted_at": "2026-07-02T12:00:00Z"
     }
